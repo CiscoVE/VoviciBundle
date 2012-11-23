@@ -1,0 +1,3 @@
+services:
+    cisco.vovici:
+        class: Cisco\VoviciBundle\Baa
