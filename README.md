@@ -8,7 +8,7 @@ Cisco Systems VoviciBundle
     "repositories": [
         {
             "type": "vcs",
-            "url": "https://github.com/CiscoSystems/VoviciBundle"
+            "url": "https://github.com/CiscoVE/VoviciBundle"
         }
     ],
     "require": {
